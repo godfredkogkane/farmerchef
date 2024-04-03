@@ -1,0 +1,114 @@
+{
+    "East": [
+      {
+        "farm": "Sunny Acres Farm",
+        "produce": "Tomatoes"
+      },
+      {
+        "farm": "Green Valley Farm",
+        "produce": "Potatoes"
+      },
+      {
+        "farm": "Harvest Haven Farm",
+        "produce": "Carrots"
+      },
+      {
+        "farm": "Rainbow Ranch",
+        "produce": "Bell Peppers"
+      }
+    ],
+    "West": [
+      {
+        "farm": "Basil Breezes Farm",
+        "produce": "Basil"
+      },
+      {
+        "farm": "Cilantro Meadows Farm",
+        "produce": "Cilantro"
+      },
+      {
+        "farm": "Minty Greens Farm",
+        "produce": "Mint"
+      },
+      {
+        "farm": "Thyme Trails Farm",
+        "produce": "Thyme"
+      },
+      {
+        "farm": "Rosemary Ridges Farm",
+        "produce": "Rosemary"
+      },
+      {
+        "farm": "Sage Springs Farm",
+        "produce": "Sage"
+      },
+      {
+        "farm": "Parsley Paradise Farm",
+        "produce": "Parsley"
+      },
+      {
+        "farm": "Dill Delight Farm",
+        "produce": "Dill"
+      },
+      {
+        "farm": "Chive Charm Farm",
+        "produce": "Chives"
+      },
+      {
+        "farm": "Bay Leaf Gardens Farm",
+        "produce": "Bay leaf"
+      },
+      {
+        "farm": "Tarragon Terrace Farm",
+        "produce": "Tarragon"
+      },
+      {
+        "farm": "Lavender Lanes Farm",
+        "produce": "Lavender"
+      },
+      {
+        "farm": "Marjoram Meadows Farm",
+        "produce": "Marjoram"
+      },
+      {
+        "farm": "Saffron Sunsets Farm",
+        "produce": "Saffron"
+      }
+    ],
+    "North": [
+      {
+        "farm": "Banana Bay Farm",
+        "produce": "Bananas"
+      },
+      {
+        "farm": "Apple Orchard Farm",
+        "produce": "Apples"
+      },
+      {
+        "farm": "Orange Grove Farm",
+        "produce": "Oranges"
+      },
+      {
+        "farm": "Strawberry Fields Farm",
+        "produce": "Strawberries"
+      },
+      {
+        "farm": "Pineapple Plantation Farm",
+        "produce": "Pineapples"
+      },
+      {
+        "farm": "Mango Meadows Farm",
+        "produce": "Mangoes"
+      },
+      {
+        "farm": "Kiwi Kingdom Farm",
+        "produce": "Kiwi"
+      },
+      {
+        "farm": "Grapevine Gardens Farm",
+        "produce": "Grapes"
+      }
+    ]
+  }
+
+  
